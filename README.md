@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently completing on my masters attempting to optomise brain state manipulation in VR using an RL agent to control stimuli.
-- 🌱 I’m currently learning more about real time BCI's and neuroscience.
-- 👯 I’m looking to collaborate on any neurotechnology projects or any impactful med tech innovation.
-- 🤔 I’m looking for help with learning more about neurotechnology.
+- 🔭 I’m currently the Technical Lead at [Xavant technology](https://www.xavant.com/).
+- 🌱 I’m currently learning more about embedded software deployed within a medical environment.
+- 👯 I’m looking to collaborate on any impactful medical technology projects.
+- 🤔 I’m looking for help with learning more about deploying AI models with the medical technology envoronment.
 
 ## Github stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RC-7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
