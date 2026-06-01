@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently the Technical Lead at [Xavant technology](https://www.xavant.com/).
-- 🌱 I’m currently learning more about embedded software deployed within a medical environment.
+- 🔭 I’m currently a Senior embedded Software developer.
+- 🌱 I’m currently learning more about embedded software.
 - 👯 I’m looking to collaborate on any impactful medical technology projects.
 - 🤔 I’m looking for help with learning more about deploying AI models with the medical technology envoronment.
 
